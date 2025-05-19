@@ -1,0 +1,17 @@
+.carousel-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.carousel-image {
+  width: 600px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.carousel-controls button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
